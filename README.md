@@ -98,5 +98,5 @@ MIT License
 
 ## 🌍 Related Projects
 
-- [appkeywords.pro](https://appkeywords.pro) — AI-powered ASO optimization tools
+- [appkeywords.pro](https://appkeywords.pro) — Simple ASO optimization tool
 
